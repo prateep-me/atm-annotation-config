@@ -3,5 +3,7 @@ target
 .idea
 .DS_Store
 .classpath
-org.eclipse.*
 .project
+bin*
+.settings
+.vscode
